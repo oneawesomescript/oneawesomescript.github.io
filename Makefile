@@ -5,6 +5,9 @@
 # select New Terminal from the file or press Alt-T.)
 # You can think of this file as a shortcut.
 
+# Notice: if typing make warns you about anything,
+# just type "yes" and press enter.
+
 commit:
 	git add --all
 	git commit -m "Automatic commit by Makefile"
