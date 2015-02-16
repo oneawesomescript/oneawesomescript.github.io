@@ -5,11 +5,22 @@ Include it in your pages by adding this inside the <head>:
 
 body {
     font-family: Georgia, sans-serif;
-    padding-left: 20px;
-    padding-right: 20px;
     background-color: #EEEEEE;
 }
 
 #main {
+    /* Coloring and styling/spacing */
     background-color: #FFFFFF;
+    padding: 10px;
+    
+    /* Sizing. By using calc() we can make sure we don't get out of the page /
+    make the main page to big. The second number in our subtraction should be
+    the padding * 2.*/
+    min-height: calc(100% - 20px);
+    width: calc(60% - 20px);
+    
+    /* Positioning. */
+    position: absolute;
+    top: 0;
+    left: 20%;
 }

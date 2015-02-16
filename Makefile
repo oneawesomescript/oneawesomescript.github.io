@@ -5,6 +5,10 @@
 # select New Terminal from the file or press Alt-T.)
 # You can think of this file as a shortcut.
 
+# Remember - it's best to test the site before saving and publishing it to
+# www.paperscripts.github.io. You can go to the preview / dev site here:
+# https://ide.c9.io/oneawesomescript/oneawesomescript_github_io
+
 # Notice: if typing make warns you about anything,
 # just type "yes" and press enter.
 
