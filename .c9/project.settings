@@ -24,7 +24,16 @@
         "@path": "/.c9/runners",
         "configs": {
             "@inited": "true",
-            "json()": {}
+            "json()": {
+                "Save": {
+                    "command": "make",
+                    "cwd": "/",
+                    "debug": true,
+                    "env": {},
+                    "name": "Save",
+                    "runner": "Shell command"
+                }
+            }
         }
     },
     "share": {
