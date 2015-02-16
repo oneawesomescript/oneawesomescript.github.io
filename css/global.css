@@ -1,0 +1,15 @@
+/* Global CSS stylesheet.
+Include it in your pages by adding this inside the <head>:
+    <link rel="stylesheet" href="/css/global.css">
+*/
+
+body {
+    font-family: Georgia, sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #EEEEEE;
+}
+
+#main {
+    background-color: #FFFFFF;
+}
