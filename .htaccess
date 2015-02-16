@@ -1,5 +1,0 @@
-# This is the special hidden file that stores information about the site,
-# such as where to go when we get an error.
-
-# Error redirecting:
-ErrorDocument 404 /Error/404.html
